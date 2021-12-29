@@ -1,7 +1,6 @@
 import time
 
-from chapter_02.linked_list import LinkedList
-
+from linked_list import LinkedList
 
 def remove_dups(ll):
     current = ll.head
